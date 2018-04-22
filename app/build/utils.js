@@ -9,7 +9,7 @@ const museUiThemePath = path.join(
   '..',
   'node_modules',
   'muse-ui',
-  'src/styles/themes/variables/default.less'
+  'src/styles/themes/variables/teal.less'
 )
 
 exports.assetsPath = function (_path) {

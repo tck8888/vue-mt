@@ -4,10 +4,15 @@
 
 ## cd app
 
-## npm install
+## 环境搭建
 
-## npm install vuex --save
+    1. 安装vue vue init webpack app
+    cd app
+    2. 安装依赖 npm install
+    npm install vuex --save
+    npm run dev 
 
-## UI
+## ui框架的整合
 
-    www.muse-ui.org/#/index
+   muse-ui
+   需要安装less less-loader解析器
